@@ -27,13 +27,6 @@
   <!-- 웹 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  
-  <!-- 프레임워크 -->
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=MySQL&logoColor=white"/>
-  
-  <!-- 환경 -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ### 🔭 앞으로의 목표
