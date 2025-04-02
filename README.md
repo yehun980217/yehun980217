@@ -1,46 +1,49 @@
-<!-- <h1>📚 STACKS</h1>
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-      <p><strong>Frontend</strong></p>
-    <div>
-        <img  alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-    </div>
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </div>
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-    </div>
-      <p><strong>OS</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    </div>
-    <p><strong>Development Tools</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit">
-        <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-    </div>
-    <p><strong>Framework</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
-    </div>
-    <p><strong>Version Control</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </div>
-</div> -->
+<h1 align="center">👋 안녕하세요! 저는 신예훈입니다!</h1>
+
+<p align="center">
+  <b>📚 강서폴리텍 빅데이터과 2학년 재학 중</b><br>
+  Java 기반의 백엔드 개발을 중심으로 공부하고 있습니다.
+</p>
+
+---
+
+### 👨‍🎓 간단 소개
+
+- 🎓 **강서폴리텍 빅데이터과 2학년**
+- 💡 백엔드 개발계에 관심이 많습니다!
+
+---
+
+### 🛠️ 사용 기술 & 배우는 기술
+
+<p align="left">
+  <!-- 언어 -->
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+  
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  
+  <!-- 웹 -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  
+  <!-- 프레임워크 -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-0052CC?style=flat-square&logo=MySQL&logoColor=white"/>
+  
+  <!-- 환경 -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+### 🔭 앞으로의 목표
+
+- JPA 심화 학습 및 실전 프로젝트 적용
+- Spring Boot 기반 RESTful API 개발
+- 협업과 배포 환경(Docker, AWS 등)에 대한 이해와 실습
+
+---
+
+<p align="center">
+  <b>방문해주셔서 감사합니다! 🙇‍♂️</b>
+</p>
